@@ -29,7 +29,7 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: violet ;
+  background-color: rgb(238, 61, 61)
   color:white ;
 
 }
