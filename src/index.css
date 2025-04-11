@@ -23,13 +23,13 @@ a:hover {
 }
 
 body {
-  font-size: 30px;
+  font-size: 20px;
   margin: 0;
   display: flex;
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: rgb(238, 61, 61)
+  background-color: rgb(238, 61, 61);
   color:white ;
 
 }
